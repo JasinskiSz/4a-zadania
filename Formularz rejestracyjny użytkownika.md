@@ -1,0 +1,1 @@
+Stwórz prosty formularz HTML zawierający pola na podanie nazwy użytkownika, adresu e-mail i hasła. Następnie napisz skrypt PHP, który będzie przetwarzał dane z formularza, sprawdzając poprawność wprowadzonych informacji i zapisując użytkownika do bazy danych (lub wyświetlając odpowiednie komunikaty w przypadku błędów).
