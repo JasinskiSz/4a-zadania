@@ -1,0 +1,1 @@
+Stwórz stronę logowania, która zawiera pola na wprowadzenie nazwy użytkownika i hasła. Wykorzystaj PHP do weryfikacji danych logowania. Jeśli dane są poprawne, użytkownik powinien być przekierowany na inną stronę; w przeciwnym razie powinien otrzymać odpowiedni komunikat o błędzie.

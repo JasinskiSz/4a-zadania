@@ -1,0 +1,1 @@
+Stwórz panel administracyjny, który umożliwia administratorowi zarządzanie użytkownikami. Pozwól na dodawanie nowych użytkowników, usuwanie istniejących oraz przeglądanie listy użytkowników. Wykorzystaj PHP do obsługi tych operacji i odpowiedniego wyświetlania danych.
