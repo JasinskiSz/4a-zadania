@@ -1,0 +1,1 @@
+Utwórz prosty blog, który wyświetla listę wpisów w formie „kart”. Stwórz formularz umożliwiający dodawanie nowych wpisów. Każdy wpis powinien zawierać tytuł, treść i datę dodania. Wykorzystaj PHP do zarządzania wpisami bloga, takimi jak dodawanie, usuwanie i wyświetlanie.

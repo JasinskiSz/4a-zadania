@@ -1,0 +1,1 @@
+Zaprojektuj prosty formularz HTML, który będzie pobierał od użytkownika wagę (w kilogramach) oraz wzrost (w metrach). Następnie napisz skrypt PHP, który obliczy wskaźnik masy ciała (BMI) na podstawie podanych danych i wyświetli wynik.

@@ -1,0 +1,1 @@
+Utwórz stronę internetową, na której użytkownik może zobaczyć listę zadań do wykonania. Dodaj formularz umożliwiający dodawanie nowych zadań. Wykorzystaj PHP do obsługi dodawania nowych zadań i usuwania istniejących z listy.
